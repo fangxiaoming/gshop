@@ -1,16 +1,15 @@
 <template>
-  <div>
-    APP
-  </div>
+    <div>
+        Profile
+    </div>
 </template>
 
 <script>
-
-export default {
-}
+    export default {
+        name: "Profile"
+    }
 </script>
 
 <style lang="stylus" rel="stylesheet/stylus">
-  .app
-    color: red
+
 </style>
