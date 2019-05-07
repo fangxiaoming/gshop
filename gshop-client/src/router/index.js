@@ -1,7 +1,7 @@
 /*
 路由对象模块
  */
-import Vue from 'Vue'
+import Vue from 'vue'
 import VueRouter from 'vue-router'
 import MSite from '../pages/MSite/MSite.vue'
 import Search from '../pages/Search/Search.vue'
